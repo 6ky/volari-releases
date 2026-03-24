@@ -1,12 +1,5 @@
 <div align="center">
-  <svg width="10%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <clipPath id="round">
-        <rect width="100" height="100" rx="15" ry="15"/>
-      </clipPath>
-    </defs>
-    <image href="https://volari.app/volari-logo.png" width="100" height="100" clip-path="url(#round)"/>
-  </svg>
+  <img src="https://volari.app/volari-logo.png" alt="Volari" width="10%" style="border-radius: 12px;" />
 </div>
 
 <div align="center">
