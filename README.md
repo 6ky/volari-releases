@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://volari.app/og.png" alt="Volari" width="100%" />
+  <img src="https://volari.app/volari-logo.png" alt="Volari" width="100%" />
 </div>
 
 <br />
