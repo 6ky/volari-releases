@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://volari.app/volari-logo.png" alt="Volari" width="20%" />
+  <img src="https://volari.app/volari-logo.png" alt="Volari" width="10%" style="border-radius: 12px;" />
 </div>
-
 <br />
 
 <div align="center">
