@@ -35,4 +35,4 @@ After installing, activate your license from [volari.app](https://volari.app).
 
 ## Support
 
-For help, reach out via [volari.app](https://volari.app) or DM [@kyu](https://instagram.com/kyu) on Instagram.
+For help, reach out via [volari.app](https://volari.app).
